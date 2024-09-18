@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"  height="100px"/>
   <h3><b>Vue Cart Shop</b></h3>
 </div>
 
@@ -16,7 +16,6 @@
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
@@ -41,8 +40,6 @@
 
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Adding cart Elements to the Cart with the amount of money**
 - **Implement Vuex Library to manage States**
