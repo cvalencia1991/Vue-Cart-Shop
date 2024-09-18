@@ -14,8 +14,7 @@ export default {
         },
         {
           id: 'p2',
-          image:
-            'https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Tent_at_High_Shelf_Camp_cropped.jpg/640px-Tent_at_High_Shelf_Camp_cropped.jpg',
+          image:'https://images.pexels.com/photos/904616/pexels-photo-904616.jpeg',
           title: 'Mountain Tent',
           description: 'A tent for the ambitious outdoor tourist.',
           price: 129.99,
@@ -31,5 +30,10 @@ export default {
         },
       ]
     }
-  }
+  },
+  getters: {
+    products(state) {
+      return state.products;
+    },
+  },
 }
