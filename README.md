@@ -50,7 +50,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://vue-cart-shop.netlify.app/products)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
