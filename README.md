@@ -34,7 +34,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">Vuex</a></li>
+    <li><a href="https://vuejs.org/">Vue</a></li>
   </ul>
 </details>
 
