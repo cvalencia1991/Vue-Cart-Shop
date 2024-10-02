@@ -68,7 +68,7 @@ In order to run this project you need:
 ```sh
 nvm
 node
-npm
+git
 Vuex
 ```
 
