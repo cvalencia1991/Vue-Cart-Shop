@@ -1,0 +1,25 @@
+From b3efb3e6095801e00a85ad8ee65b9f3918ce26ea Mon Sep 17 00:00:00 2001
+From: cvalencia1991 <cesar4a6z@gmail.com>
+Date: Wed, 2 Oct 2024 10:55:27 -0500
+Subject: [PATCH 2/2] Fix Setup Files when need it to see the project
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 5329e50..7b72d5c 100644
+--- a/README.md
++++ b/README.md
+@@ -68,7 +68,7 @@ In order to run this project you need:
+ ```sh
+ nvm
+ node
+-npm
++git
+ Vuex
+ ```
+ 
+-- 
+2.43.0
+

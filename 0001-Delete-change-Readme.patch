@@ -1,0 +1,44 @@
+From f05cbe3a41cf6b8aa991601f2719aeff94021401 Mon Sep 17 00:00:00 2001
+From: cvalencia1991 <cesar4a6z@gmail.com>
+Date: Wed, 2 Oct 2024 10:53:36 -0500
+Subject: [PATCH 1/2] Delete change Readme
+
+---
+ 0001-Change-README.md.patch | 25 -------------------------
+ 1 file changed, 25 deletions(-)
+ delete mode 100644 0001-Change-README.md.patch
+
+diff --git a/0001-Change-README.md.patch b/0001-Change-README.md.patch
+deleted file mode 100644
+index 181144d..0000000
+--- a/0001-Change-README.md.patch
++++ /dev/null
+@@ -1,25 +0,0 @@
+-From c86b3c310531b56d853e4f1b53a9b28858a392f0 Mon Sep 17 00:00:00 2001
+-From: cvalencia1991 <cesar4a6z@gmail.com>
+-Date: Tue, 1 Oct 2024 20:29:56 -0500
+-Subject: [PATCH] Change README.md
+-
+----
+- README.md | 2 +-
+- 1 file changed, 1 insertion(+), 1 deletion(-)
+-
+-diff --git a/README.md b/README.md
+-index 3d75aab..5329e50 100644
+---- a/README.md
+-+++ b/README.md
+-@@ -34,7 +34,7 @@
+- <details>
+-   <summary>Client</summary>
+-   <ul>
+--    <li><a href="https://reactjs.org/">Vuex</a></li>
+-+    <li><a href="https://vuejs.org/">Vue</a></li>
+-   </ul>
+- </details>
+- 
+--- 
+-2.43.0
+-
+-- 
+2.43.0
+
